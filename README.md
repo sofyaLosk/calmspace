@@ -6,21 +6,23 @@ Bu uygulama kullanıcıların: rahatlatıcı doğa sesleri dinlemesine,
 nefes egzersizleri yapmasına,
 zamanlayıcı kullanmasına,
 sakinleşmesine yardımcı olur.
-Özellikler
+Özellikler: 
 Yağmur, orman, dalga ve beyaz gürültü sesleri
 Animasyonlu nefes egzersizleri
-5 / 10 / 20 dakikalık zamanlayıcı
-Günün sözü sistemi
-Türkçe arayüz
-Sakin ve minimalist tasarım
-Kullanılan Teknolojiler
+5 / 10 / 20 dakikalık zamanlayıcı.
+Günün sözü sistemi.
+Türkçe arayüz.
+Sakin ve minimalist tasarım.
+
+Kullanılan Teknolojiler:
 Flutter
 Dart
 VS Code
 Android SDK
-APK Oluşturma
 
-## APK dosyası oluşturmak için terminalde şu komutu çalıştırın:
+## APK Oluşturma
+
+APK dosyası oluşturmak için terminalde şu komutu çalıştırın:
 
 `flutter build apk`
 

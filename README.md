@@ -15,7 +15,10 @@ Türkçe arayüz.
 Sakin ve minimalist tasarım.
 
 Kullanılan Teknolojiler:
-Flutter, Dart, VS Code, Android SDK.
+- Flutter
+- Dart
+- VS Code
+- Android SDK
 
 ## APK Oluşturma
 
@@ -41,10 +44,10 @@ Terminalde:
 `flutter run`
 
 ## Android Studio Emulator ile Çalıştırma
-Android Studio açın
-Device Manager bölümüne girin
-Yeni bir emulator oluşturun
-Emulatoru başlatın
+- Android Studio açın.
+- Device Manager bölümüne girin.
+- Yeni bir emulator oluşturun.
+- Emulatoru başlatın.
 
 Daha sonra terminalde:
 

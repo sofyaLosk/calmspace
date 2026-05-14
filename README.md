@@ -2,9 +2,7 @@
 
 CalmSpace, Flutter ile geliştirilmiş rahatlatıcı bir mobil uygulamadır.
 
-Bu uygulama kullanıcıların:
-
-rahatlatıcı doğa sesleri dinlemesine,
+Bu uygulama kullanıcıların: rahatlatıcı doğa sesleri dinlemesine,
 nefes egzersizleri yapmasına,
 zamanlayıcı kullanmasına,
 sakinleşmesine yardımcı olur.
@@ -24,7 +22,7 @@ APK Oluşturma
 
 ## APK dosyası oluşturmak için terminalde şu komutu çalıştırın:
 
-flutter build apk
+`flutter build apk`
 
 Oluşturulan APK dosyası şu klasörde bulunur:
 
@@ -41,8 +39,9 @@ Uygulamayı çalıştırın
 
 Terminalde:
 
-flutter run
-Android Studio Emulator ile Çalıştırma
+`flutter run`
+
+## Android Studio Emulator ile Çalıştırma
 Android Studio açın
 Device Manager bölümüne girin
 Yeni bir emulator oluşturun
@@ -50,17 +49,20 @@ Emulatoru başlatın
 
 Daha sonra terminalde:
 
-flutter run
-Projeyi Çalıştırma
+`flutter run`
 
-## Projeyi başlatmak için:
+## Projeyi Çalıştırma
 
+Projeyi başlatmak için:
+
+```
 flutter pub get
 flutter run
+```
 
-A new Flutter project.
+## A new Flutter project.
 
-## Getting Started
+### Getting Started
 
 This project is a starting point for a Flutter application.
 

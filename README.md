@@ -15,10 +15,7 @@ Türkçe arayüz.
 Sakin ve minimalist tasarım.
 
 Kullanılan Teknolojiler:
-Flutter,
-Dart,
-VS Code,
-Android SDK.
+Flutter, Dart, VS Code, Android SDK.
 
 ## APK Oluşturma
 

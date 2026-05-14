@@ -32,9 +32,9 @@ USB hata ayıklamayı açın
 
 Telefonunuzda:
 
-Geliştirici seçeneklerini açın
-USB debugging özelliğini aktif edin
-Uygulamayı çalıştırın
+- Geliştirici seçeneklerini açın.
+- USB debugging özelliğini aktif edin.
+- Uygulamayı çalıştırın.
 
 Terminalde:
 
